@@ -1,0 +1,32 @@
+_repo: Sekunde-durch-Hirn--Ein-unheimlich-schnell-rotierender-Roman_32814
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vischer, Melchior
+    alias: Fischer, Emil Walter Kurt
+    birthdate: 1895
+    deathdate: 1975
+    gutenberg_agent_id: '36058'
+    url: http://www.gutenberg.org/2009/agents/36058
+    wikipedia: http://de.wikipedia.org/wiki/Melchior_Vischer
+description: ''
+gutenberg_bookshelf:
+- DE Prosa
+- DE Lyrik
+gutenberg_issued: '2010-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32814'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dadaist literature'
+- !lcsh 'German prose literature -- 20th century'
+- !lcc 'PT'
+title: 'Sekunde durch Hirn: Ein unheimlich schnell rotierender Roman'
+url: http://www.gutenberg.org/ebooks/32814
