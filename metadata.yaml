@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36058
     wikipedia: http://de.wikipedia.org/wiki/Melchior_Vischer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32814#Sekunde-durch-Hirn--Ein-unheimlich-schnell-rotierender-Roman
 gutenberg_bookshelf:
 - DE Prosa
 - DE Lyrik
